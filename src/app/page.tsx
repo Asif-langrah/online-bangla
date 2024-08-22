@@ -6,11 +6,12 @@ const page = () => {
     <Image className="w-24 h-24 rounded-full mx-auto" src="/asif-pic.jpeg" alt="" width="384" height="512"/>
     <div className="pt-6 text-center space-y-4">
       <blockquote>
-        <p className="text-lg font-medium">
-          “Tailwind CSS is the only framework that I've seen scale
-          on large teams. It’s easy to customize, adapts to any design,
-          and the build size is tiny.”
-        </p>
+      <p className="text-lg font-medium">
+       Tailwind CSS is the only framework that I&#39;ve seen scale
+       on large teams. It’s easy to customize, adapts to any design,
+       and the build size is tiny.
+      </p>
+
       </blockquote>
       <figcaption className="font-medium">
         <div className="text-sky-500 dark:text-sky-400">
